@@ -1,0 +1,64 @@
+.miniMoa-neonText {
+  color: #fff;
+  text-shadow:
+    0 0 1px #fff,
+    0 0 3px #fff,
+    0 0 4px #fff,
+    0 0 8px #FA448C,
+    0 0 10px #FA448C,
+    0 0 10px #FA448C,
+    0 0 20px #FA448C,
+    0 0 20px #FA448C;
+}
+
+.miniGameMoa-neonText {
+  color: #fff;
+  text-shadow:
+    0 0 1px #fff,
+    0 0 3px #fff,
+    0 0 4px #fff,
+    0 0 8px #345ea8,
+    0 0 10px #345ea8,
+    0 0 10px #345ea8,
+    0 0 20px #345ea8,
+    0 0 20px #345ea8;
+}
+
+.gameSpread-neonTextPink {
+  color: #fff;
+  text-shadow:
+    0 0 0.8px #fff,
+    0 0 0.8px #fff,
+    0 0 0.8px #fff,
+    0 0 0.8px #F372A5,
+    0 0 3px #F372A5,
+    0 0 3px #F372A5,
+    0 0 5px #F372A5,
+    0 0 5px #F372A5;
+}
+
+.gameSpread-neonTextBlue {
+  color: #fff;
+  text-shadow:
+    0 0 0.8px #fff,
+    0 0 0.8px #fff,
+    0 0 0.8px #fff,
+    0 0 0.8px #345ea8,
+    0 0 3px #345ea8,
+    0 0 3px #345ea8,
+    0 0 5px #345ea8,
+    0 0 5px #345ea8;
+}
+
+.gameSpread-neonTextGreen {
+  color: #fff;
+  text-shadow:
+    0 0 0.8px #fff,
+    0 0 0.8px #fff,
+    0 0 0.8px #fff,
+    0 0 0.8px #43B5A0,
+    0 0 3px #43B5A0,
+    0 0 3px #43B5A0,
+    0 0 5px #43B5A0,
+    0 0 5px #43B5A0;
+}

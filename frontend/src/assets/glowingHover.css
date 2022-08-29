@@ -1,0 +1,30 @@
+.photo{
+  display: block;
+}
+
+
+.photo .glow-wrap{
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+}
+
+.photo .glow{
+  display: block;
+  position:absolute;
+  background: rgba(255,255,255);
+  top: 0;
+  filter: blur(100px);
+  transform: rotate(45deg) translate(-100%, 0);
+  transition: all 0s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+
+.photo:hover .glow{
+  transform: rotate(45deg) translate(400%, 0);
+  transition: all 1s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+
+.photo:hover,
+.photo:hover .glow-wrap{
+  margin-top: 5;
+}

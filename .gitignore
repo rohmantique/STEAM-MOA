@@ -1,0 +1,7 @@
+/.idea/.gitignore
+/.idea/modules.xml
+/.idea/STEAMMOA_GIT.iml
+/.idea/vcs.xml
+
+/exec/steammoa_dump.sql
+/BackEnd

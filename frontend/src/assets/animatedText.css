@@ -1,0 +1,13 @@
+.animated-title {font-family:'Black Han Sans',Sans-serif; position: relative; width: 80%;max-width:80%; height: auto; padding:0 0; overflow-x: hidden; overflow-y: hidden; }
+.animated-title .track {position: absolute; white-space: nowrap;will-change: transform;animation: marquee 6.5s linear infinite; }
+@keyframes marquee {
+  0% {
+    -webkit-transform: translate3d(30%, 0, 0);
+    transform: translate3d(30%, 0, 0);
+  }
+  100% {
+    -webkit-transform: translate3d(-100%, 0, 0);
+    transform: translate3d(-100%, 0, 0);
+  }
+}
+
