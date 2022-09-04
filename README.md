@@ -1,6 +1,6 @@
 # ReadMe
 
-![Untitled](ReadMe%208118f36887da4163b0ce9d919fa5ba90/Untitled 6.png)
+
 
 ## 💡 서비스 소개
 
