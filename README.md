@@ -178,6 +178,6 @@
 | 기능 정의서 | [기능 정의서 보러 가기](https://docs.google.com/spreadsheets/d/1WfJoLFtwinLhnWlKR11bC-UEMn59IrG46p22vAHViIw/edit#gid=1408271660)|
 | 와이어 프레임(디자인) | [와이어프레임 보러 가기](https://www.figma.com/file/Zrl14ZgPRxZdzvOj1vSIpC/Untitled) |
 | API 정의서 | [API 정의서 보러 가기](https://www.notion.so/a8af2ba49b1b47f5b281d92ba527af9a) |
-| 빌드/배포 | [빌드/배포 보러 가기](https://lab.ssafy.com/s07-webmobile1-sub2/S07P12A303/-/blob/c476de65f5d1eea007ffd5fd4b6b7a8d126a1c48/exec/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8F%AC%ED%8C%85%EB%A7%A4%EB%89%B4%EC%96%BC.docx) |
-| 시연 시나리오 | [시연 시나리오 보러 가기](https://lab.ssafy.com/s07-webmobile1-sub2/S07P12A303/-/blob/c476de65f5d1eea007ffd5fd4b6b7a8d126a1c48/exec/%EC%8A%A4%ED%8C%80%20%EB%AA%A8%EC%95%84%20%EC%8B%9C%EC%97%B0%20%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4.pdf) |
-| 발표 자료 | [발표 자료 보러 가기](https://lab.ssafy.com/s07-webmobile1-sub2/S07P12A303/-/blob/c476de65f5d1eea007ffd5fd4b6b7a8d126a1c48/Presentation/%EC%84%9C%EC%9A%B8_3%EB%B0%98_A303_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)  |
+| 빌드/배포 | [빌드/배포 보러 가기](https://github.com/rohmantique/STEAM-MOA/blob/master/exec/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8F%AC%ED%8C%85%EB%A7%A4%EB%89%B4%EC%96%BC.docx) |
+| 시연 시나리오 | [시연 시나리오 보러 가기](https://github.com/rohmantique/STEAM-MOA/blob/master/exec/%EC%8A%A4%ED%8C%80%20%EB%AA%A8%EC%95%84%20%EC%8B%9C%EC%97%B0%20%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4.pdf) |
+| 발표 자료 | [발표 자료 보러 가기](https://github.com/rohmantique/STEAM-MOA/blob/master/Presentation/%EC%84%9C%EC%9A%B8_3%EB%B0%98_A303_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf) |
