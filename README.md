@@ -1,7 +1,6 @@
 # ReadMe
 
-![steammoa main logo](ReadMe 8118f36887da4163b0ce9d919fa5ba90/steammoa main logo-1662266194950-1.png)
-
+![Untitled](ReadMe%208118f36887da4163b0ce9d919fa5ba90/Untitled 6.png)
 
 ## 💡 서비스 소개
 
