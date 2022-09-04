@@ -1,8 +1,6 @@
 # ReadMe
 
-
-
-![Untitled 6](README.assets/Untitled 6.png)
+![steammoa main logo](ReadMe 8118f36887da4163b0ce9d919fa5ba90/steammoa main logo-1662266194950-1.png)
 
 
 ## 💡 서비스 소개
